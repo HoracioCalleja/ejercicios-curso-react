@@ -1,0 +1,25 @@
+{
+  "name": "ejerciciosjs",
+  "version": "1.0.0",
+  "description": "Ejercicios de JS Async",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej_1": "node ejercicio_1/app.js",
+    "ej_2": "node ejercicio_2/app.js",
+    "ej_3": "node ejercicio_3/app.js",
+    "ej_4": "node ejercicio_4/app.js",
+    "ej_5": "node ejercicio_5/app.js",
+    "ej_6": "node ejercicio_6/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoracioCalleja/ejercicios-curso-react"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
