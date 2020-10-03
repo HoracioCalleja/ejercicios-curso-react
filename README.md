@@ -1,6 +1,9 @@
 # Ejercicios JS Async
 Ejercicios para practicar código asincrónico de JavaScript usando Callbacks y Promesas
 
+### Scripts
+- npm run ej_numeroDeEjercicio para correr el archivo app.js del ejercicio
+
 #### 1- Imprimir por consola el chiste extraido usando funciones callback
 
 #### 2- Imprimir por consola el chiste extraido usando Promesas
